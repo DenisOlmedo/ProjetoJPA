@@ -1,0 +1,5 @@
+<marshalling-strategy>
+  <resolver>mvel</resolver>
+  <identifier>new org.drools.persistence.jpa.marshaller.JPAPlaceholderResolverStrategy("myPersistenceUnit", classLoader)</identifier>
+  <parameters/>
+</marshalling-strategy>
